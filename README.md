@@ -52,7 +52,3 @@ Faster recall and improved typing skills can contribute to reduced handling time
 ## Goal
 
 The goal of Scriptly is to transform scripts into muscle memory while improving typing proficiency, helping agents become faster, more accurate, and more confident in every customer interaction.
-
----
-
-Train smarter. Type faster. Deliver better.
